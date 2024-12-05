@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom/client'
 import "./index.css"
 import { RouterProvider, createRouter } from '@tanstack/react-router'
 
-// Import the generated route tree
+
+// Import the generated route treekk krishala
 import { routeTree } from './routeTree.gen'
 
 // Create a new router instance
