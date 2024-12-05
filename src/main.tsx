@@ -4,7 +4,7 @@ import "./index.css"
 import { RouterProvider, createRouter } from '@tanstack/react-router'
 
 
-// Import the generated route treekk krishala poudel kkkkkkkkkkkkkkk
+// Import the generated route treekk krishala poudel kkkkkkkkkkkkkkk poudel
 import { routeTree } from './routeTree.gen'
 
 // Create a new router instance
